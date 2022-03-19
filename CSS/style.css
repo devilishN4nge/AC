@@ -1,0 +1,79 @@
+.div_card{
+    
+    width: 200px;
+    height: auto;
+    padding: 32px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    background-color: #2aaabb;
+}
+
+.image{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.cards_list{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    color: #FFFFFF;
+    font-family: Montserrat;
+    font-size: 600;
+    
+}
+.btn_tag{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    background:none;
+    margin-right: 2px;
+    cursor: pointer;
+    font-family: Montserrat;
+    font-size: 600;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.btn_tag:hover{
+    background: #DFDFDF;
+}
+#tag_list{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: Montserrat;
+    font-size: 600;
+    
+}
+.select_class{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: Montserrat;
+    font-size: 600;
+    
+}
+#but_vib{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: Montserrat;
+    font-size: 600;
+}
+.search_btn{
+    font-family: Montserrat;
+    font-size: 600;
+}
+.input_search{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: Montserrat;
+    font-size: 600;
+    
+}
